@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203848268853",
+    "project_id": "rakshakai",
+    "storage_bucket": "rakshakai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203848268853:android:ca96bb536bc6d8d5a8c57c",
+        "android_client_info": {
+          "package_name": "com.rakshak.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8nKuz02h0ZgYgRmeRlqSdn8FdFtHNLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
